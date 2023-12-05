@@ -7,6 +7,9 @@ package «aoc2023» where
 lean_lib «Aoc2023» where
   -- add library configuration options here
 
+require mathlib from git
+  "https://github.com/leanprover-community/mathlib4"
+
 @[default_target]
 lean_exe «aoc2023» where
   root := `Main

@@ -2,3 +2,5 @@
 /lakefile.olean
 /lake-packages/*
 /inputs/*
+.lake
+lake-packages

@@ -1,5 +1,3 @@
--- import Common
-
 import Aoc2023.Common
 
 namespace Day1
